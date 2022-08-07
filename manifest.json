@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "description": "The #1 social app for foodies.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "The Dygest",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Dygest",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://assets.website-files.com/img/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://assets.website-files.com/img/webclip.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "shortcuts": []
+}
