@@ -13,11 +13,13 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "https://assets.website-files.com/img/favicon.ico",
-      "type": "image/x-icon"
+      "src": "https://dygest.viralme.org/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
     },
     {
-      "src": "https://assets.website-files.com/img/webclip.png",
+      "src": "https://dygest.viralme.org/favicon.png",
       "type": "image/png",
       "sizes": "256x256"
     }
